@@ -29,6 +29,13 @@ P {
 
 
 /* IDs */
-
+#page-title {
+    color: white;
+    text-align: center;
+}
 
 /* Classes */
+.right {
+    float: right;
+    margin-left: 20px;
+}
